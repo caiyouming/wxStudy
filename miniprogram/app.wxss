@@ -4,7 +4,17 @@
   flex-direction: column;
   align-items: center;
   box-sizing: border-box;
+  width: 100%;
+  height: 100%;
 } 
+.container-x{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
 
 /*第三功能 通用箭头*/
 /*箭头*/

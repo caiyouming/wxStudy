@@ -11,6 +11,8 @@
     <image src='{{item.url}}' mode='widthFix'></image>
   </view>
   <view class='refer-p'>
-    <image src='../../images/customer.png' class='refer-size' mode='widthFix'></image>
+    <navigator url='../detail/index'>
+      <image src='../../images/customer.png' class='refer-size' mode='widthFix'></image>
+    </navigator>
   </view>
 </view>

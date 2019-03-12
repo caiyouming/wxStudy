@@ -1,2 +1,12 @@
-<!--pages/mail/index.wxml-->
-<text>pages/mail/index.wxml</text>
+<view>
+  <image src='../../images/ad.png' mode='widthFix'></image>
+</view>
+<view class='container'>
+  <view class='container-x'>
+    <view class='type-title'>垃圾归类</view>
+    <view class='type-con'>
+      <view class='tc-nav'>小件垃圾</view>
+      <view class='tc-nav'>大件垃圾</view>
+    </view>
+  </view>
+</view>

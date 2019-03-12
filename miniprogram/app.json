@@ -1,8 +1,10 @@
 {
   "pages": [
-    "pages/home/index",
     "pages/mail/index",
-    "pages/profile/index"
+    "pages/home/index",
+    
+    "pages/profile/index",
+    "pages/detail/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
