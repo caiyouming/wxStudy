@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/mail/index",
+    "pages/profile/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#3FAA52",
+    "navigationBarTitleText": "家家分类"
+  },
+  "tabBar": {
+    "color": "#6A6767",
+    "selectedColor": "#8E8E93",
+    "backgroundColor": "#F5F5F5",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "text": "主页",
+        "iconPath": "images/home2.png",
+        "selectedIconPath": "images/home.png"
+      },
+      {
+        "pagePath": "pages/mail/index",
+        "text": "商城",
+        "iconPath": "images/shop2.png",
+        "selectedIconPath": "images/shop.png"
+      },
+      {
+        "pagePath": "pages/profile/index",
+        "text": "我的",
+        "iconPath": "images/my2.png",
+        "selectedIconPath": "images/my.png"
+      }
+    ]
+  }
+}

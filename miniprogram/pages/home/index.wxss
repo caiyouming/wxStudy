@@ -1,0 +1,30 @@
+page{
+  height: 100%;
+}
+.banner image{
+  margin-top: 10rpx;
+}
+.title{
+  background: #3FAA52;
+  height: 4.5%;
+  width: 100%;
+}
+.title image{
+  width: 40rpx;
+  height: 40rpx;
+  
+}
+.sub-main{
+  width: 94.7%;
+}
+.sub-main image{
+  width: 100%;
+  border-radius: 15rpx;
+}
+.refer-p{
+  margin-left: 82.7%;
+  margin-top: -15.6px;
+}
+.refer-size{
+  width: 116rpx;
+}
